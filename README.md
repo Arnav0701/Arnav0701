@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Arnav Singh — an aspiring Data Analyst with a strong foundation in programming, problem-solving, and backend development.<br><br>I enjoy working with data, building practical applications, and understanding how technology can turn raw information into meaningful insights.
+Hi, I’m Arnav Singh — an aspiring Data Analyst with a strong foundation in programming, problem-solving, .<br><br>I enjoy working with data, building practical applications, and understanding how technology can turn raw information into meaningful insights.
 
 
 ## 🌐 Socials:
